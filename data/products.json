@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "category": "electronics",
+    "price": 99,
+    "image": "assets/images/headphones.jpg"
+  },
+  {
+    "name": "T-Shirt",
+    "category": "clothing",
+    "price": 25,
+    "image": "assets/images/tshirt.jpg"
+  },
+  {
+    "name": "Smartphone",
+    "category": "electronics",
+    "price": 699,
+    "image": "assets/images/smartphone.jpg"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "category": "electronics",
+    "price": 45,
+    "image": "assets/images/speaker.jpg"
+  },
+  {
+    "name": "Jeans",
+    "category": "clothing",
+    "price": 40,
+    "image": "assets/images/jeans.jpg"
+  },
+  {
+    "name": "Smartwatch",
+    "category": "electronics",
+    "price": 199,
+    "image": "assets/images/smartwatch.jpg"
+  },
+  {
+    "name": "Jacket",
+    "category": "clothing",
+    "price": 89,
+    "image": "assets/images/jacket.jpg"
+  },
+  {
+    "name": "Laptop Stand",
+    "category": "electronics",
+    "price": 30,
+    "image": "assets/images/stand.jpg"
+  }
+]

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Enhanced Product Listing</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Product Catalog</h1>
+    <input type="text" id="searchInput" placeholder="Search products..." />
+    <select id="categoryFilter">
+      <option value="all">All Categories</option>
+      <option value="electronics">Electronics</option>
+      <option value="clothing">Clothing</option>
+    </select>
+    <label class="switch">
+      <input type="checkbox" id="darkToggle" />
+      <span class="slider round"></span>
+    </label>
+    
+  </header>
+
+  <main id="productContainer"></main>
+
+  <script src="script.js"></script>
+</body>
+</html>
